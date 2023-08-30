@@ -1,4 +1,6 @@
 # PeerProgBackend
+This is a Django boilerplate to create a Distribution platform allowing artist to release Albums and Tracks on different DSP (Digital Streaming Platform)  
+This boilerplate comes with a populated database with an artist called La Femme (<User: 1>) and a list of 4 DSPs: Spotify, Deezer, Apple, Youtube (<DSP: 1>, <DSP: 2>, <DSP: 3> <DSP: 4>)
 
 ## Getting Started
 First, start by cloning this project  
